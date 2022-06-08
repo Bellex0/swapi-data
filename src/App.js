@@ -85,6 +85,8 @@ const App = () => {
 	</tbody>
 </table>
 }
+
+      <a className="git-link" rel="noreferrer"  href="https://github.com/Bellex0/swapi-data" target="_blank">Please find public git repo here.</a>
     </div>
   );
 }

@@ -21,6 +21,7 @@ table {
   border-collapse: collapse;
   text-align: center;
   overflow: hidden;
+  margin-bottom:50px;
 }
 table td, table th {
   border-top: 1px solid #ECF0F1;
@@ -37,6 +38,13 @@ table th {
 }
 table tr:nth-of-type(even) td {
   background-color: #d9f4f2;
+}
+
+.git-link {
+  margin-top:5rem;
+  font-size:24px;
+  color:black;
+  font-weight: 600;
 }
 
 
