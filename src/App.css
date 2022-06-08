@@ -40,10 +40,20 @@ table tr:nth-of-type(even) td {
   background-color: #d9f4f2;
 }
 
+footer{
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #000;
+  text-align: center;
+  padding:10px 0;
+}
+
 .git-link {
-  margin-top:5rem;
   font-size:24px;
-  color:black;
+  color:#FFE81F;
   font-weight: 600;
 }
 
