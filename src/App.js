@@ -18,7 +18,6 @@ const App = () => {
         return res.json()
       })
       .then(data => {
-        console.log(data.results)
         let planetData = data.results.sort((a, b) => a.name.localeCompare(b.name))
         setPlanets(planetData)
         setLoading(false)
