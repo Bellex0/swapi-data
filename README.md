@@ -1,7 +1,8 @@
 # SWAPI Data Table Display
 
 Built with React.
-Code is in src > App.js.  
+Code is in src > App.js. 
+Please feel free to check out the [deployed app here](https://swapi-work-sample.vercel.app).
 
 ## Instructions to run app
 
